@@ -1,0 +1,38 @@
+.letter {
+  border: black solid 2px;
+  padding: 30px;
+  margin: 20px;
+  font-size: 30px;
+  height: 30px;
+  width: 50px;
+  text-align: center;
+  background: linear-gradient(to bottom, rgb(0, 162, 232), rgb(0, 91, 153));
+  color: white;
+  box-shadow: 2px 3px #888888;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(73, 73, 73);
+}
+
+.input {
+  width: 90%;
+  margin: 20px;
+  font-size: 15px;
+  background-color: rgb(255, 248, 216);
+}
+
+.button {
+  width: 10;
+  font-size: 15px;
+  background-color: rgb(0, 124, 70);
+  color: white;
+  margin: 5px
+}
